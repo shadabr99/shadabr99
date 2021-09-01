@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @shadabr99
 - 👀 I’m interested in doing some projects on renewable energy sector data
 - 🌱 I’m currently learning Power BI
+- I have uploaded python prohectn reneable energy
+- 
 - 💞️ I’m looking to collaborate on 
+- 
 - 📫 you can reach me on shadabr99@gmail.com
 
 <!---
